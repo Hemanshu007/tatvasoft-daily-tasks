@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Mission",
+    "\\Mission\\Mission.Api",
+    "\\Mission\\Mission.Api\\Controllers",
+    "\\Mission\\Mission.Api\\Helpers",
+    "\\Mission\\Mission.Api\\Models",
+    "\\Mission\\Mission.Entities",
+    "\\Mission\\Mission.Repositories",
+    "\\Mission\\Mission.Services",
+    "\\Mission\\Mission.Services\\Services"
+  ],
+  "SelectedNode": "\\Mission\\Mission.Api\\Models\\RegisterRequest.cs",
+  "PreviewInSolutionExplorer": false
+}
